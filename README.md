@@ -15,21 +15,21 @@
 
 
 ### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   graduate  [System Analyst Course](https://github.com/Savelok/Resume/blob/main/Systems%20analyst%20diploma.jpg) and [System Analyst Course](https://github.com/Savelok/Resume/blob/main/certificate.pdf)
+*   graduate [Bauman Moscow State Technical University, Engineering technology](https://bmstu.ru/faculty/mt)
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   BPMN, UML, DFD, ER-model
+*   REST, SOAP, Postman
+*   MySQL, PostgreSQL
+*   User Story, Use Cases, Functional Specification (FSD), Business Requirements (BRD)
+*   XML, JSON
+*   Jira, Confluence
+*   GitHub/GitLab
 
 ### My projects
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+* [Hackathon - Mobile App for Finance](https://github.com/Savelok/Resume/tree/main/Hackathon%20-%20Mobile%20App%20for%20Finance)
 
 
 <div align="center" style="margin: 40px 0">

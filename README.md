@@ -24,7 +24,7 @@
 *   MySQL, PostgreSQL
 *   User Story, Use Cases, Functional Specification (FSD), Business Requirements (BRD)
 *   XML, JSON
-*   Jira, Confluence
+*   Jira, Confluence, Figma
 *   GitHub/GitLab
 
 ### My projects

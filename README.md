@@ -3,7 +3,7 @@
 <h3 align="center">Systems analyst,  from Russia </h3>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/savely-kozhaev/">
+   <a href="https://www.linkedin.com/in/savely-kozhaev/" target="_blank">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/savelok">

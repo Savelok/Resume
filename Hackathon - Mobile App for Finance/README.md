@@ -8,3 +8,6 @@
 ###Спроектировать API в POSTMAN 
 📜 [Проектная документация](https://docs.google.com/document/d/1-JvMWbRIDU4hMo9KXOJksKkTXpRN-ERHUANH2jhHbb4/edit?usp=sharing)
 📜 [Документация Postman](https://documenter.getpostman.com/view/27899143/2s9YJjRJqv) 
+### Key points
+*   graduate  [System Analyst Course](https://github.com/Savelok/Resume/blob/main/Systems%20analyst%20diploma.jpg) and [System Analyst Course](https://github.com/Savelok/Resume/blob/main/certificate.pdf)
+*   graduate [Bauman Moscow State Technical University, Engineering technology](https://bmstu.ru/faculty/mt)

@@ -6,4 +6,4 @@
 *   [Интерфейс](https://www.figma.com/file/LOjZ3JKl3fr44e4jvb9L8o/Untitled?type=design&node-id=0-1&mode=design&t=BmYwTNbEDeFNc4xO-0 )
 ### APi 
 *   [Проектная документация](https://docs.google.com/document/d/1-JvMWbRIDU4hMo9KXOJksKkTXpRN-ERHUANH2jhHbb4/edit?usp=sharing)
-*   [Документация Postman](https://documenter.getpostman.com/view/27899143/2s9YJjRJqv) 
+*   [Документация Postman](https://documenter.getpostman.com/view/27899143/2s9YJjRJqv)

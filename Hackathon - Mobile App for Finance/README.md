@@ -1,4 +1,4 @@
-### Artefats
+### Artifacts
 *   [Презентация](https://docs.google.com/presentation/d/1YIWHVVy5HETK7WMx0V426FfHTwmfU6wbyvdHrOh6vEU/edit#slide=id.p) 
 *   [Карта пользовательских историй USM](https://miro.com/welcomeonboard/dFhmTXlIV1BzbGF5RkJ2NklCMVVVTUIxQTFsTmxQY2ZZbUxQU3A0V3R0THVUVGNMQUFieVRFczNITThpaEpFS3wzNDU4NzY0NTIyODc2MjIzNzI0fDI=?share_link_id=34034332155)  
 *   [Диаграмма архитектуры системы. Диаграмма компонентов UML + ER]( https://drive.google.com/file/d/1Gh3OrIW1iQFJSJF9a1k7_J_Pde3knb1s/view?usp=sharing)

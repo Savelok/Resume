@@ -30,7 +30,6 @@
 ### My projects
 
 * [Hackathon - Mobile App for Finance](https://github.com/Savelok/Resume/tree/main/Hackathon%20-%20Mobile%20App%20for%20Finance)
-* [Project - Moscow parking](https://github.com/Savelok/Resume/tree/main/Project%20-%20Moscow%20parking%20)
 
 
 <div align="center" style="margin: 40px 0">

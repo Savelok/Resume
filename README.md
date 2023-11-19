@@ -1,6 +1,6 @@
 <head>
    <meta charset="utf-8">
-</head>
+
    <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/savely-kozhaev/">Saveliy</a> 
    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
    <h3 align="center">Systems analyst,  from Russia </h3>
@@ -15,7 +15,7 @@
    <p align='center'>
    📫 How to reach me: <a href='mailto:savelok95@gmail.com'>savelok95@gmail.com</a>
    </p>
-
+</head>
 
 ### Key points
 *   graduate  [System Analyst Course](https://github.com/Savelok/Resume/blob/main/Systems%20analyst%20diploma.jpg) and [System Analyst Course](https://github.com/Savelok/Resume/blob/main/certificate.pdf)
